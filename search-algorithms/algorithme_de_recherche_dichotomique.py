@@ -1,4 +1,4 @@
-from algorithme_de_recherche_dichotomique import BFS, DFS, GBFS, A_etoile
+from Algorithms import BFS, DFS, GBFS, A_etoile
 import time, matplotlib.pyplot as plt, tracemalloc
 
 # Function to measure execution time and memory usage of an algorithm
